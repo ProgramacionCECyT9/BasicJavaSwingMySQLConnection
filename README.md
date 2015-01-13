@@ -1,1 +1,1 @@
-# BasicJavaSwingMySQLConnection
+# Basic JavaSwing MySQL Connection
